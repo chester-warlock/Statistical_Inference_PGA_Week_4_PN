@@ -1,6 +1,6 @@
 # Stat.Inf. Project, part2
-DanH  
-August 13, 2016  
+Pranav Narula 
+October 24th, 2021  
 
 ---
 

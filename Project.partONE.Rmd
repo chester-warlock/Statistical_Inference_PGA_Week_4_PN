@@ -1,6 +1,6 @@
 ---
 title: "Statistical Inference Project part one"
-author: "Panav Narula"
+author: "Pranav Narula"
 date: "24th October, 2021"
 output: 
   html_document:

@@ -1,6 +1,6 @@
 # Statistical Inference Project part one
-DanH  
-August 13, 2016  
+Pranav Narula 
+October 24th, 2021  
 
 
 ---
